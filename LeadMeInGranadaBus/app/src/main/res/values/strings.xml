@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lead Me In Granada Bus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="texto_medio">Texto medio</string>
+    <string name="texto">Texto</string>
+    <string name="posicion_actual">Posición actual</string>
+    <string name="about_me">About</string>
+    <string name="autor">Autor</string>
+    <string name="nombre_app">Nombre app</string>
+    <string name="nombre_curso">Curso</string>
+    <string name="fecha">Fecha</string>
+    <string name="fecha_modificacion">27/05/2015</string>
+    <string name="version">Versión</string>
+    <string name="version_code">1.0</string>
+
+</resources>
